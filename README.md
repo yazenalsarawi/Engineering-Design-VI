@@ -24,7 +24,7 @@ https://www.linkedin.com/in/yazen-alsarawi-1761902aa/
 
 ---
 
-`code`
+`print("Hello World!")`
 
 ---
 
