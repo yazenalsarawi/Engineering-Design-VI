@@ -1,5 +1,8 @@
-# Computer Engineering Student at Stevens Institute of Technology
+# Computer Engineering at SIT
+---
+
 Trying to get better at code
+
 ---
 
 **Interests**
@@ -8,4 +11,5 @@ Trying to get better at code
 - Travel
 
 ---
+
 ![alt text](thumbnail_Image.jpg)
