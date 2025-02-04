@@ -20,8 +20,8 @@
 
 ---
 
-https://www.linkedin.com/in/yazen-alsarawi-1761902aa/
-
+[LinkedIn](https://www.linkedin.com/in/yazen-alsarawi-1761902aa/)
+[Team Project Site](https://sites.google.com/stevens.edu/teamproject/home?authuser=2)
 ---
 
 `print("Hello World!")`
