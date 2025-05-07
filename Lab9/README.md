@@ -33,6 +33,8 @@ Generates UML file from the YANG module using Pyang.
 ## UML file to PNG
 This command uses PlantUML to render the UML diagram as an image from the generated .uml file.
 
+![UMLtoPNG](UMLtoPNG.jpg)
+
 ![umlpng](umlpng.jpg)
 
 ---
