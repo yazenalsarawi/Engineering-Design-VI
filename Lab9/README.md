@@ -1,4 +1,4 @@
-# Lab 9 - YANG
+# Lab 9: YANG
 
 ## Overview  
 This lab explored YANG schemas and model-to-model transformations using the Pyang and PlantUML tools. We practiced converting .yang files into .yin and .uml formats, then rendered UML diagrams from those models.
